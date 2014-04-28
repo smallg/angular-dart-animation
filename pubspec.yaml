@@ -1,0 +1,9 @@
+name: test
+description: A sample web application
+dependencies:
+  angular: ">=0.10.0"
+  browser: any
+  unittest: any
+
+transformers:
+- angular
